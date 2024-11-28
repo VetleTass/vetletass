@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vetle</h1>
 <h3 align="center">A passionate frontend developer from Norway</h3>
 
-- 🌱 I’m currently learning **svelte**
+- 🌱 I’m currently learning **java**
 
 - 💬 Ask me about **python**
 
